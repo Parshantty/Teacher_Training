@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.npm-cache/
+*.local
+.env*
+coverage/
+*.zip
+*.tar.gz
+*.tar
+.sites-runtime/
+.sites-checkout/
